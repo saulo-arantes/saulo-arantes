@@ -1,6 +1,6 @@
 ## Hi there, I am Saulo Arantes <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-<p>
+<p align="center">
   <img
       align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=saulo-arantes&layout=compact&theme=dracula"
