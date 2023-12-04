@@ -14,7 +14,7 @@
 
 ### 📫 How to reach me: 
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saulovinicius987@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/saulo-arantes/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-fb3958?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/saulo_arantes/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saulovinicius987@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/saulo-arantes/) 
     
 ### 👩‍💻 Languages and Tools:
 
