@@ -23,11 +23,4 @@
 ### 👾 More about me:
 
 - 👨🏻‍💻 I’m currently working with Laravel and Vue.js
-- 🎮 My hobbies concists in going out with friends, gaming and movies
-- 💁🏻‍♂️ Love to explore new techs
 - 🗣 Contact me anytime
-
-
-
-
-
